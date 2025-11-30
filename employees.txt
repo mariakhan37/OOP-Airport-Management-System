@@ -1,0 +1,5 @@
+Employees Data:
+fahd,1,fahd@email.com,123456789,EMP001,5000,pilot
+ali,2,ali@email.com,987654321,EMP002,4000,co-pilot
+sara,3,sara@email.com,555555555,EMP003,3500,flight_attendant
+ahmed,4,ahmed@email.com,111111111,EMP004,3000,ground_staff
