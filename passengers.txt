@@ -1,4 +1,0 @@
-Passengers Data:
-101,ahmad,101,ahmad@email.com,111111111,P1234567,Pakistani,1990-01-15
-101,rania,102,rania@email.com,222222222,P7654321,Pakistani,1985-03-20
-102,saif,103,saif@email.com,333333333,P8888888,Pakistani,1992-07-10
