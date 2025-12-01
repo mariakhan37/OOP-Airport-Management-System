@@ -1,5 +1,0 @@
-Flights Data:
-101,Karachi,Lahore,Boeing-777
-102,Lahore,Quetta,Airbus-A380
-103,Islamabad,Multan,Boeing-787
-104,Karachi,Rawalpindi,Airbus-A320
